@@ -1,4 +1,4 @@
-# :wave: Hi there, my names is Manon Salsou aka Jouskaio
+# :wave: Hi there, my name is Manon Salsou aka Jouskaio
 
 <!--Profil -->
 ![Jouskaio](https://socialify.git.ci/Jouskaio/Jouskaio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
