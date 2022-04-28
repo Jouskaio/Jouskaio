@@ -1,4 +1,5 @@
-### Hi there 👋
+# :wave: Hi there, my names is Manon Salsou aka Jouskaio
+
 <!--Profil -->
 ![Jouskaio](https://socialify.git.ci/Jouskaio/Jouskaio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
@@ -38,15 +39,31 @@ const jouskaio = {
     },
     compagniesWorkedWith: ["Orange", "RATP", "Novæ Memoræ", "Santarelli"],
     currentFocus: "Automatizing processus",
-    funFact: "Computing isn't magic, if you don't understand then keep looking"
+    funFact: ["My name is contraction of Jouska and I/O. 
+    Jouska means 'A hypothetical conversation that you compulsively play out in your head' which is usually the 
+    behaviour I have and I am confronted to an error while coding"]
 };
 ```
 
-<h1>⚡ Some data</h1>
+<h1>:zap: Some data</h1>
 
 <!-- Github action : https://github.com/anmol098/waka-readme-stats -->
+<!-- Github widgets : https://github.com/anuraghazra/github-readme-stats -->
 
 <!--START_SECTION:waka-->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouskaio&langs_count=8)](https://github.com/jouskaio/github-readme-stats&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=jouskaio&show_icons=true&theme=tokyonight" />
+</a>
+
+
+<!-- [![Jouskaio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jouskaio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+ 
 <!--END_SECTION:waka-->
 
 
