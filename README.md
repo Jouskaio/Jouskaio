@@ -52,17 +52,13 @@ const jouskaio = {
 
 <!--START_SECTION:waka-->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouskaio&langs_count=8)](https://github.com/jouskaio/github-readme-stats&show_icons=true&theme=tokyonight" />
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=jouskaio&show_icons=true&theme=tokyonight" />
 </a>
 
-
-<!-- [![Jouskaio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jouskaio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouskaio&langs_count=8)](https://github.com/jouskaio/github-readme-stats&show_icons=true&theme=tokyonight" />
+</a>
  
 <!--END_SECTION:waka-->
 
