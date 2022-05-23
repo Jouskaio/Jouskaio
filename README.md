@@ -59,6 +59,9 @@ const jouskaio = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouskaio&langs_count=8)](https://github.com/jouskaio/github-readme-stats&show_icons=true&theme=tokyonight" />
 </a>
+
+
+<figure><embed src="https://wakatime.com/share/@421f3c4d-505e-46dd-a125-f4af7f23cc50/ffd14aad-94ae-4540-afe3-d5a731cb48ce.svg"></embed></figure>
  
 <!--END_SECTION:waka-->
 
