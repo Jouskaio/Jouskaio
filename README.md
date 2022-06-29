@@ -61,6 +61,7 @@ const jouskaio = {
 
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&color=302d41&logo=gnu-bash&logoColor=4EAA25)
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=302d41&logo=lua&logoColor=0062cc)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&color=302d41&logo=lua&logoColor=0062cc)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=302d41&logo=go&logoColor=00a7d0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=302d41&logo=javascript&logoColor=F7DF1E)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&color=302d41&logo=markdown)
