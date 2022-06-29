@@ -1,4 +1,4 @@
-# :wave: Hi there, my name is Manon Salsou aka Jouskaio
+# :wave: Hi ! I'm Jouskaio
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Jouskaio&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
