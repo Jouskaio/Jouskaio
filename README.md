@@ -44,15 +44,14 @@ const jouskaio = {
     behaviour I have and I am confronted to an error while coding"]
 };
 ```
-
-<h1>:zap: Some data</h1>
+<!--<h1>:zap: Some data</h1>-->
 
 <!-- Github action : https://github.com/anmol098/waka-readme-stats -->
 <!-- Github widgets : https://github.com/anuraghazra/github-readme-stats -->
 
 <!--START_SECTION:waka-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=jouskaio&show_icons=true&theme=tokyonight" />
 </a>
 
@@ -61,7 +60,7 @@ const jouskaio = {
 </a>
 
 
-<figure><embed src="https://wakatime.com/share/@421f3c4d-505e-46dd-a125-f4af7f23cc50/ffd14aad-94ae-4540-afe3-d5a731cb48ce.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@421f3c4d-505e-46dd-a125-f4af7f23cc50/ffd14aad-94ae-4540-afe3-d5a731cb48ce.svg"></embed></figure>-->
  
 <!--END_SECTION:waka-->
 
