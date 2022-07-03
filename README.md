@@ -52,7 +52,7 @@ const jouskaio = {
     compagniesWorkedWith: ["Orange", "RATP", "Novæ Memoræ", "Santarelli"],
     funFact: ["My name is contraction of Jouska and I/O. 
     Jouska means 'A hypothetical conversation that you compulsively play out in your head' which is usually the 
-    behaviour I have and I am confronted to an error while coding"]
+    behavior I always have when reflecting about a future decision"]
 };
 ```
 
