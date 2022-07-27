@@ -50,9 +50,9 @@ const jouskaio = {
         specialities : ["Embedded systems", "management", "Agility and Scrum", "TOEIC"]
     },
     compagniesWorkedWith: ["Orange", "RATP", "Novæ Memoræ", "Santarelli"],
-    funFact: ["My name is contraction of Jouska and I/O. 
-    Jouska means 'A hypothetical conversation that you compulsively play out in your head' which is usually the 
-    behavior I always have when reflecting about a future decision"]
+    funFact: ["My name is contraction of Jouska and I/O. \
+              Jouska means 'A hypothetical conversation that you compulsively play out in your head' \
+              which is usually the behavior I always have when reflecting about a future decision" ]
 };
 ```
 
@@ -95,15 +95,20 @@ const jouskaio = {
 
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Jouskaio&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouskaio&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
+<<<<<<< HEAD
 
 <figure><embed src="https://wakatime.com/share/@421f3c4d-505e-46dd-a125-f4af7f23cc50/ffd14aad-94ae-4540-afe3-d5a731cb48ce.svg"></embed></figure>-->
  
+=======
+
+<figure><embed src="https://wakatime.com/share/@421f3c4d-505e-46dd-a125-f4af7f23cc50/ffd14aad-94ae-4540-afe3-d5a731cb48ce.svg"></embed></figure>
+
 <!--END_SECTION:waka-->
 
 
 <hr>
-<h5 align="center">Website – <a href='https://www.jouskaio.me/blog' target="_blank">jouskaio.me</a><h4>
-<h5 align="center">Twitter – <a href='https://twitter.com/Jouskaio_' target="_blank">@Jouskaio_</a><h4>
+<h5 align="center">Website – <a href='https://www.jouskaio.me/blog' target="_blank">jouskaio.me</a></h5>
+<h5 align="center">Twitter – <a href='https://twitter.com/Jouskaio_' target="_blank">@Jouskaio_</a></h5>
 
 <!--
 - 🔭 I’m currently working on ...
