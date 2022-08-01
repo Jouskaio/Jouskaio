@@ -101,11 +101,11 @@ const jouskaio = {
  
 =======
 
-<figure><embed src="https://wakatime.com/share/@421f3c4d-505e-46dd-a125-f4af7f23cc50/ffd14aad-94ae-4540-afe3-d5a731cb48ce.svg"></embed></figure>
+<!--<figure><embed src="https://wakatime.com/share/@421f3c4d-505e-46dd-a125-f4af7f23cc50/ffd14aad-94ae-4540-afe3-d5a731cb48ce.svg"></embed></figure>
 <img
   src="https://github.com/Jouskaio/Jouskaio/blob/main/images/stat.svg"
   alt="Jouskaio WakaTime Activity"
-/>
+/>-->
 <!--END_SECTION:waka-->
 
 
