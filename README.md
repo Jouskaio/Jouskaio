@@ -74,7 +74,10 @@ const jouskaio = {
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=302d41&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=302d41&logo=github)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&color=302d41&logo=mysql&logoColor=4479A1)
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&color=302d41&logo=inkscape&logoColor=D9E0EE)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&color=302d41&logo=kotlin&logoColor=D9E0EE)
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=for-the-badge&color=302d41&logo=swift&logoColor=D9E0EE)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=for-the-badge&color=302d41&logo=wordpress&logoColor=D9E0EE)
+![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=for-the-badge&color=302d41&logo=symfony&logoColor=D9E0EE)
 
 &nbsp;
 
