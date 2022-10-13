@@ -1,9 +1,5 @@
 # :wave: Hi ! I'm Jouskaio
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Jouskaio&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
-</p>
-
 <!--Profil -->
 ![Jouskaio](https://socialify.git.ci/Jouskaio/Jouskaio/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
@@ -11,6 +7,11 @@
 [![Twitter: Jouskaio_](https://img.shields.io/twitter/follow/Jouskaio_?style=social)](https://twitter.com/Jouskaio_)
 [![Linkedin: ManonSalsou](https://img.shields.io/badge/-manonsalsou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manonsalsou/)](https://www.linkedin.com/in/manonsalsou/)
 [![GitHub Manon Salsou](https://img.shields.io/github/followers/jouskaio?label=follow&style=social)](https://github.com/Jouskaio)
+
+<div align="right" width="100%">
+  <img width="75%" margin-left="33%" src="https://github-profile-trophy.vercel.app/?username=Jouskaio&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
+</div>
+
 
 <h1>💬 A little about me...</h1>
 
@@ -56,28 +57,9 @@ const jouskaio = {
 };
 ```
 
-<!-- Icons: https://simpleicons.org/ -->
 <h1>:star2: Tools / Languages </h1>
 
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&color=302d41&logo=gnu-bash&logoColor=4EAA25)
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=302d41&logo=lua&logoColor=0062cc)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&color=302d41&logo=lua&logoColor=0062cc)
-![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=302d41&logo=go&logoColor=00a7d0)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=302d41&logo=javascript&logoColor=F7DF1E)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&color=302d41&logo=markdown)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=302d41&logo=neovim&logoColor=4b9e4b)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=302d41&logo=linux&logoColor=dfb914)
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=for-the-badge&color=302d41&logo=archlinux&logoColor=3399cc)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=302d41&logo=fedora&logoColor=294172)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=for-the-badge&color=302d41&logo=ubuntu&logoColor=d64613)
-![Vim](https://img.shields.io/badge/-Vim-05122A?style=for-the-badge&color=302d41&logo=vim&logoColor=4EAA25)
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=302d41&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=302d41&logo=github)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&color=302d41&logo=mysql&logoColor=4479A1)
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&color=302d41&logo=kotlin&logoColor=D9E0EE)
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=for-the-badge&color=302d41&logo=swift&logoColor=D9E0EE)
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=for-the-badge&color=302d41&logo=wordpress&logoColor=D9E0EE)
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=for-the-badge&color=302d41&logo=symfony&logoColor=D9E0EE)
+<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jouskaio/73e1d67b-339d-4a8f-9370-38c48b9f6558.png" /></a>
 
 &nbsp;
 
