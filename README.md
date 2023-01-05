@@ -59,7 +59,9 @@ const jouskaio = {
 
 <h1>:star2: Tools / Languages </h1>
 
-<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jouskaio/73e1d67b-339d-4a8f-9370-38c48b9f6558.png" /></a>
+<!--<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jouskaio/73e1d67b-339d-4a8f-9370-38c48b9f6558.png" /></a> -->
+  
+<div align="center" width="100%"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jouskaio/e67bd4a0-a568-4d07-a3e6-cc572b20ea0c.png" /></a></div>
 
 &nbsp;
 
