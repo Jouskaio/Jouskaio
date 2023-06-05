@@ -84,10 +84,9 @@ const jouskaio = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouskaio&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
 
 <!--<figure><embed src="https://wakatime.com/share/@421f3c4d-505e-46dd-a125-f4af7f23cc50/ffd14aad-94ae-4540-afe3-d5a731cb48ce.svg"></embed></figure>
-<img
-  src="https://github.com/Jouskaio/Jouskaio/blob/main/images/stat.svg"
-  alt="Jouskaio WakaTime Activity"
-/>-->
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jouskaio/e1ebad0f-36bb-486d-86e0-c38cffeb8dc5.png" /></a>
+-->
 <!--END_SECTION:waka-->
 
 
