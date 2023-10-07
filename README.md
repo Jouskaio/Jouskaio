@@ -61,8 +61,7 @@ const jouskaio = {
 <h1>:star2: Tools / Languages </h1>
 
 <!--<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jouskaio/73e1d67b-339d-4a8f-9370-38c48b9f6558.png" /></a> -->
-  
-<div align="center" width="100%"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Jouskaio/e67bd4a0-a568-4d07-a3e6-cc572b20ea0c.png" /></a></div>
+[![WakaTime Stats](https://wakatime.com/share/@Jouskaio/247bf4ac-8836-440e-a061-cf4397b095b9.svg)](https://wakatime.com/share/@Jouskaio/247bf4ac-8836-440e-a061-cf4397b095b9.svg)
 
 &nbsp;
 
