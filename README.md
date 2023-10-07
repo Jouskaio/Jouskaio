@@ -8,7 +8,8 @@
 [![Linkedin: ManonSalsou](https://img.shields.io/badge/-manonsalsou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manonsalsou/)](https://www.linkedin.com/in/manonsalsou/)
 [![GitHub Manon Salsou](https://img.shields.io/github/followers/jouskaio?label=follow&style=social)](https://github.com/Jouskaio)
 
-<div align="right" width="100%">
+
+<div align="center" width="100%">
   <img width="75%" margin-left="33%" src="https://github-profile-trophy.vercel.app/?username=Jouskaio&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
 </div>
 
